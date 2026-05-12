@@ -1,0 +1,13 @@
+Langchain
+Langchain-community
+
+PyPDF
+
+numpy
+
+pydantic
+
+python-dotenv
+
+huggingface-hub
+langchain-huggingface
